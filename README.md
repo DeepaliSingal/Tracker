@@ -47,6 +47,9 @@
 
 ---
 
+## Demo
+To see demo of the project click [here](https://vimeo.com/637176921)
+
 ## Contributors 
 * [Ankita Lamba](https://github.com/ankitalamba)
 * [Deepali Singal](https://github.com/deepali2002-max)
